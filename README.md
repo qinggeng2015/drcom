@@ -1,7 +1,7 @@
 # drcom
 drcom解密算法
 
-``
+```Java
 
 public class Drcom {
 
@@ -20,5 +20,4 @@ public class Drcom {
         System.out.println(ming);
     }
 }
-
-``
+```
